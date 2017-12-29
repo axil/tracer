@@ -5,4 +5,4 @@
 
 ### Usage
 
-Pressing F4 inside the jupyter notebook cell inserts `from IPython.core.debugger import Pdb; Pdb().set_trace()`
+Pressing `F4` key inside the jupyter notebook cell inserts `from IPython.core.debugger import Pdb; Pdb().set_trace()`
